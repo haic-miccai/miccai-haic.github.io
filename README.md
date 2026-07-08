@@ -116,7 +116,7 @@ New for 2026: We introduce both a **Standard Paper** track (8 pages, unpublished
 
 - [James Zou](https://www.james-zou.com/) (Associate Professor of Biomedical Data Science, Stanford University)
 
-- [Daguang Xu](https://research.nvidia.com/person/daguang-xu) and [Bruce Hashemian](https://research.nvidia.com/person/daguang-xu) (Senior Research Manager / Chair of the MONAI Human-AI Interaction Working Group, NVIDIA) 
+- [Daguang Xu](https://research.nvidia.com/person/daguang-xu) and [Bruce Hashemian](https://www.linkedin.com/in/brucehashemian) (Senior Research Manager / Chair of the MONAI Human-AI Interaction Working Group, NVIDIA) 
 
 ### Program Schedule
 
@@ -158,7 +158,7 @@ TBA
 
 ### Industry Board
 
-- [Bruce Hashemian](https://github.com/bhashemian) (NVIDIA)    
+- [Bruce Hashemian](https://www.linkedin.com/in/brucehashemian) (NVIDIA)
 - [Daguang Xu](https://research.nvidia.com/person/daguang-xu) (NVIDIA)
 
 ### Student Borad
