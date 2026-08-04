@@ -127,7 +127,7 @@ TBA
 | Date | Milestone |
 |---|---|
 | **Paper submission due** | July 6 2026  |
-| Notification of decisions | July 2026 (TBA) |
+| Notification of decisions | Early August 2026 (TBA) |
 | Camera-ready papers due | August 2026 (TBA) |
 | **Workshop date** | **October 1 2026** |
 
